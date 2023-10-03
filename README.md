@@ -35,9 +35,9 @@ After that is inputed then you would have to run the url with the correct API fu
 
 ### Demonstration
 
-![Demo of Social-Network-API]()
+![Demo of Social-Network-API](/Assets/SocialNetwork.jpg)
 
-[Demonstration Video]()
+[Demonstration Video](https://drive.google.com/file/d/12d98glgx-DOssc9QPLoqQmbMsgoL7ogP/view)
 
 
 
